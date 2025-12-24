@@ -1,0 +1,53 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using OnionPronia.Application.DTOs.Categories;
+using OnionPronia.Application.Interfaces.Services;
+
+namespace OnionPronia.API.Controllers
+{
+    [Route("[controller]")]
+    [ApiController]
+    public class CategoriesController : ControllerBase
+    {
+        private readonly ICategoryService _service;
+
+        public CategoriesController(ICategoryService service)
+        {
+            _service = service;
+        }
+        [HttpGet]
+        public async Task<IActionResult> Get(int page, int take)
+        {
+            return Ok(await _service.GetAllAsync(page, take));
+        }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Get(int? id)
+        {
+            if (id is null || id < 1) return BadRequest();
+
+            return Ok(await _service.GetByIdAsync(id));
+        }
+        [HttpPost]
+        public async Task<IActionResult> Create([FromForm] PostCategoryDto categoryDto)
+        {
+            _service.CreateAsync(categoryDto);
+            return Created();
+
+        }
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromForm] PutCategoryDto categoryDto)
+        {
+            if (id < 1)
+                return BadRequest();
+            _service.UpdateAsync(id, categoryDto);
+            return NoContent();
+
+        }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Remove(int id)
+        {
+            if (id < 1) return BadRequest();
+            _service.DeleteAsync(id);
+            return NoContent();
+        }
+    }
+}

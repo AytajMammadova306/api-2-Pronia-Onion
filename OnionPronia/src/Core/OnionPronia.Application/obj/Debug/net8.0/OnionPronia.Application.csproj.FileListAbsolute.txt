@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\bin\Debug\net8.0\OnionPronia.Application.deps.json
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\bin\Debug\net8.0\OnionPronia.Application.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\bin\Debug\net8.0\OnionPronia.Application.pdb
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\bin\Debug\net8.0\OnionPronia.Domain.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\bin\Debug\net8.0\OnionPronia.Domain.pdb
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.sourcelink.json
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPro.EF94C029.Up2Date
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\refint\OnionPronia.Application.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\OnionPronia.Application.pdb
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Core\OnionPronia.Application\obj\Debug\net8.0\ref\OnionPronia.Application.dll

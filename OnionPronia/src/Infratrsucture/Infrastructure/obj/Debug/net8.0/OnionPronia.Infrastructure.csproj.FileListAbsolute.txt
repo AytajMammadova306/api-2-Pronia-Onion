@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\bin\Debug\net8.0\OnionPronia.Infrastructure.deps.json
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\bin\Debug\net8.0\OnionPronia.Infrastructure.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\bin\Debug\net8.0\OnionPronia.Infrastructure.pdb
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.sourcelink.json
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\refint\OnionPronia.Infrastructure.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.pdb
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\ref\OnionPronia.Infrastructure.dll

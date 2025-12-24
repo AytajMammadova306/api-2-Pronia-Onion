@@ -2,7 +2,7 @@
 {
     public record GetCategoryDto
     (
-        int Id,
+        long Id,
         string Name,
         IEnumerable<GetProductInCategoryDto> ProductDtos
         
