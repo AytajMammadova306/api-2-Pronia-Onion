@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using OnionPronia.Application.DTOs.Categories;
 using OnionPronia.Application.DTOs.Products;
 using OnionPronia.Domain.Entities;
 using System;

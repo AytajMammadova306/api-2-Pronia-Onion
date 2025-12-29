@@ -1,4 +1,6 @@
-﻿namespace OnionPronia.Application.DTOs.Categories
+﻿using OnionPronia.Application.DTOs.Products;
+
+namespace OnionPronia.Application.DTOs.Categories
 {
     public record GetCategoryDto
     (

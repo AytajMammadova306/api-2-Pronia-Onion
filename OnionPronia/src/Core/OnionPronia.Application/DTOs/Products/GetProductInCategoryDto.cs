@@ -1,4 +1,4 @@
-﻿namespace OnionPronia.Application.DTOs.Categories
+﻿namespace OnionPronia.Application.DTOs.Products
 {
     public record GetProductInCategoryDto(
          long Id,
