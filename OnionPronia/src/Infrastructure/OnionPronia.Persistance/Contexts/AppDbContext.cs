@@ -21,6 +21,10 @@ namespace OnionPronia.Persistance.Contexts
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Tag> Tags { get; set; }
+        public DbSet<Tag> Color { get; set; }
+        public DbSet<Tag> Size { get; set; }
         public DbSet<ProductTag> ProductTags { get; set; }
+        public DbSet<ProductSize> ProductSizes { get; set; }
+        public DbSet<ProductColor> ProductColors { get; set; }
     }
 }
