@@ -151,3 +151,7 @@ C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\Oni
 C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\OnionPronia.API\obj\Debug\net8.0\OnionPronia.API.pdb
 C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\OnionPronia.API\obj\Debug\net8.0\OnionPronia.API.genruntimeconfig.cache
 C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\OnionPronia.API\obj\Debug\net8.0\ref\OnionPronia.API.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\OnionPronia.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\OnionPronia.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\OnionPronia.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\Presentation\OnionPronia.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -1,0 +1,19 @@
+﻿using AutoMapper;
+using OnionPronia.Application.DTOs.Categories;
+using OnionPronia.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OnionPronia.Application.MappingProfiles
+{
+    internal class ProductProfile:Profile
+    {
+        public ProductProfile()
+        {
+            CreateMap<Product, GetProductInCategoryDto>();
+        }
+    }
+}

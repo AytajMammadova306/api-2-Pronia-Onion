@@ -16,7 +16,7 @@ namespace OnionPronia.Persistance
 {
     public static class ServiceRegisttration
     {
-        public static void AddPersistanceServices(this IServiceCollection services, IConfiguration config)
+        public static IServiceCollection AddPersistanceServices(this IServiceCollection services, IConfiguration config)
         {
             services.AddDbContext<AppDbContext>(opt=>opt.UseSqlServer(config.GetConnectionString("defualt")));
             services.AddScoped<IProductRepository, ProductRepository>();
@@ -24,6 +24,7 @@ namespace OnionPronia.Persistance
             services.AddScoped<ITagRepository, TagRepository>();
 
             services.AddScoped<ICategoryService,CategoryService>();
+            return services;
         }
     }
 }

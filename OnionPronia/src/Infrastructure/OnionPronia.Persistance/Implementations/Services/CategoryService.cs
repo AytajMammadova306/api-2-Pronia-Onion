@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using OnionPronia.Application.DTOs.Categories;
 using OnionPronia.Application.Interfaces.Repositories;
 using OnionPronia.Application.Interfaces.Services;
@@ -10,27 +11,36 @@ namespace OnionPronia.Persistance.Implementations.Services
     internal class CategoryService : ICategoryService
     {
         private readonly ICategoryRepository _repository;
+        private readonly IMapper _mapper;
 
-        public CategoryService(ICategoryRepository repository)
+        public CategoryService(ICategoryRepository repository,IMapper mapper)
         {
             _repository = repository;
+            _mapper = mapper;
         }
         public async Task<IReadOnlyList<GetCategoryItemDto>> GetAllAsync(int page, int take)
         {
-            return await _repository
-                .GetAll()
-                .Select(c => new GetCategoryItemDto(c.Id, c.Name, c.Products.Count()))
+            var categroeis = await _repository
+                .GetAll(
+                 page: page,
+                 take: take,
+                 includes: nameof(Category.Products))
                 .ToListAsync();
+            return _mapper.Map<IReadOnlyList<GetCategoryItemDto>>(categroeis);
+
+            //return await _repository
+            //    .GetAll()
+            //    .Select(c => new GetCategoryItemDto(c.Id, c.Name, c.Products.Count()))
+            //    .ToListAsync();
         }
         public async Task<GetCategoryDto> GetByIdAsync(int? id)
         {
             Category? category = await _repository.GetByIdAsync(id.Value, nameof(Category.Products));
             if (category == null) throw new Exception("Category Not Found");
-            return new GetCategoryDto(
-                category.Id,
-                category.Name,
-                ProductDtos: category.Products
-                    .Select(p => new GetProductInCategoryDto(p.Id, p.Name, p.Price)));
+            return _mapper.Map<GetCategoryDto>(category);
+                
+                
+                
         }
         public async Task CreateAsync(PostCategoryDto categoryDto)
         {
@@ -38,12 +48,14 @@ namespace OnionPronia.Persistance.Implementations.Services
             {
                 throw new Exception($"Category Named:{categoryDto.Name} already exists");
             }
+            Category category=_mapper.Map<Category>(categoryDto);
+            category.CreatedAt = DateTime.Now;
 
-            Category category = new()
-            {
-                Name = categoryDto.Name,
-                CreatedAt= DateTime.Now,
-            };
+            //Category category = new()
+            //{
+            //    Name = categoryDto.Name,
+            //    CreatedAt= DateTime.Now,
+            //};
             _repository.Add(category);
             await _repository.SaveChangesAsync();
         }
@@ -57,8 +69,9 @@ namespace OnionPronia.Persistance.Implementations.Services
 
 
             if (existed is null) throw new Exception("Category not Found");
+            existed=_mapper.Map(categoryDto,existed);
 
-            existed.Name = categoryDto.Name;
+            //existed.Name = categoryDto.Name;
             existed.Updated= DateTime.Now;
             _repository.Update(existed);
             await _repository.SaveChangesAsync();

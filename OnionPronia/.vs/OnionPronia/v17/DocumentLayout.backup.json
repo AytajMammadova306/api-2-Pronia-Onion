@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\validators\\putcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\validators\\putcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\validators\\postcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\validators\\postcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\mappingprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\mappingprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\dtos\\categories\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\dtos\\categories\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\presentation\\onionpronia.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|solutionrelative:presentation\\onionpronia.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\dtos\\categories\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\dtos\\categories\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\interfaces\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\interfaces\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\contexts\\migrations\\20251224122803_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\contexts\\migrations\\20251224122803_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\contexts\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\contexts\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\serviceregisttration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\serviceregisttration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\presentation\\onionpronia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|solutionrelative:presentation\\onionpronia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\implementations\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\implementations\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\implementations\\repositories\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +79,12 @@
       "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\interfaces\\repositories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\serviceregisttration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\serviceregisttration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\presentation\\onionpronia.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|solutionrelative:presentation\\onionpronia.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\dtos\\categories\\getproductincategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\dtos\\categories\\getproductincategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\dtos\\categories\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\dtos\\categories\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\dtos\\categories\\getcategoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\dtos\\categories\\getcategoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\dtos\\categories\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\dtos\\categories\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\dtos\\categories\\putcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,14 +111,6 @@
       "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\implementations\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\implementations\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1462D554-31DF-4280-9B43-91ED0699D765}|src\\Domain\\OnionPronia.Domain\\OnionPronia.Domain.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\domain\\onionpronia.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1462D554-31DF-4280-9B43-91ED0699D765}|src\\Domain\\OnionPronia.Domain\\OnionPronia.Domain.csproj|solutionrelative:src\\domain\\onionpronia.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{1462D554-31DF-4280-9B43-91ED0699D765}|src\\Domain\\OnionPronia.Domain\\OnionPronia.Domain.csproj|solutionrelative:src\\domain\\onionpronia.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\presentation\\onionpronia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|solutionrelative:presentation\\onionpronia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\presentation\\onionpronia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2EF2F7C3-8F5F-4DB7-BE3D-E5FCCA36F76C}|Presentation\\OnionPronia.API\\OnionPronia.API.csproj|solutionrelative:presentation\\onionpronia.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -105,18 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\infrastructure\\onionpronia.persistance\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{176173AF-F591-4070-8D05-57B01FDEA714}|src\\Infrastructure\\OnionPronia.Persistance\\OnionPronia.Persistance.csproj|solutionrelative:src\\infrastructure\\onionpronia.persistance\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\core\\onionpronia.application\\interfaces\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B7EC99-9DBA-4221-9950-E4C84A4C7554}|src\\Core\\OnionPronia.Application\\OnionPronia.Application.csproj|solutionrelative:src\\core\\onionpronia.application\\interfaces\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1462D554-31DF-4280-9B43-91ED0699D765}|src\\Domain\\OnionPronia.Domain\\OnionPronia.Domain.csproj|c:\\users\\user\\desktop\\academy\\hw\\api-2-pronia-onion\\onionpronia\\src\\domain\\onionpronia.domain\\entities\\common\\baseaccountableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -149,81 +173,72 @@
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceRegisttration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:00:41.273Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAuAAAAAAAAAA==",
+              "Title": "PutCategoryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Validators\\PutCategoryDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Validators\\PutCategoryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Validators\\PutCategoryDtoValidator.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Validators\\PutCategoryDtoValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:53:39.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T10:07:32.944Z",
+              "WhenOpened": "2025-12-29T09:29:30.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowFMAAAAhAAAAAAAAAA==",
+              "Title": "PostCategoryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Validators\\PostCategoryDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Validators\\PostCategoryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Validators\\PostCategoryDtoValidator.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Validators\\PostCategoryDtoValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:36:14.639Z",
+              "WhenOpened": "2025-12-29T08:59:10.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:56:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:56:25.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwEcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:59:33.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetProductInCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:32:14.934Z",
+              "WhenOpened": "2025-12-24T12:53:39.944Z",
               "EditorCaption": ""
             },
             {
@@ -234,118 +249,144 @@
               "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryDto.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryDto.cs",
               "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T12:30:23.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetCategoryItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\MappingProfiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\MappingProfiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\MappingProfiles\\CategoryProfile.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\MappingProfiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:32:10.868Z",
+              "WhenOpened": "2025-12-29T07:49:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\MappingProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\MappingProfiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\MappingProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\MappingProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:45:01.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Presentation\\OnionPronia.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:59:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251224122803_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:28:03.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:27:20.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PostCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PostCategoryDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PostCategoryDto.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PostCategoryDto.cs",
               "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PostCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T12:32:19.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PutCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:32:23.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:46:11.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:41:07.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ITagRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:45:15.543Z",
+              "WhenOpened": "2025-12-23T12:49:12.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwGQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:17:51.248Z",
+              "WhenOpened": "2025-12-29T08:26:45.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Title": "ServiceRegisttration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\ServiceRegisttration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:19:00.101Z",
+              "WhenOpened": "2025-12-24T12:00:41.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\OnionPronia.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\OnionPronia.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:54:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\CategoryRepository.cs",
@@ -358,46 +399,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20251224122803_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\Migrations\\20251224122803_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:28:03.753Z",
+              "WhenOpened": "2025-12-23T10:07:32.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\Generic\\Repository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:36:14.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "GetProductInCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetProductInCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:32:14.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetCategoryItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:32:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PutCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\DTOs\\Categories\\PutCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:32:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:46:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Implementations\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:41:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:45:15.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:17:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:19:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "ProductTag.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\ProductTag.cs",
               "RelativeDocumentMoniker": "src\\Domain\\OnionPronia.Domain\\Entities\\ProductTag.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\ProductTag.cs",
               "RelativeToolTip": "src\\Domain\\OnionPronia.Domain\\Entities\\ProductTag.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T09:25:22.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\Tag.cs",
               "RelativeDocumentMoniker": "src\\Domain\\OnionPronia.Domain\\Entities\\Tag.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\Tag.cs",
               "RelativeToolTip": "src\\Domain\\OnionPronia.Domain\\Entities\\Tag.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T09:24:33.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "src\\Domain\\OnionPronia.Domain\\Entities\\Category.cs",
@@ -410,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "src\\Domain\\OnionPronia.Domain\\Entities\\Product.cs",
@@ -423,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\OnionPronia.API\\appsettings.json",
@@ -436,20 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\OnionPronia.API\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\Presentation\\OnionPronia.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\OnionPronia.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:54:08.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "ProductTagConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductTagConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductTagConfiguration.cs",
@@ -462,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Contexts\\AppDbContext.cs",
@@ -475,59 +620,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "TagConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\TagConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\TagConfiguration.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\TagConfiguration.cs",
               "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\TagConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T12:58:18.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:56:25.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\OnionPronia.Persistance\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:49:12.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
-              "RelativeToolTip": "src\\Core\\OnionPronia.Application\\Interfaces\\Services\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T12:27:20.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "BaseNameableEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\common\\BaseNameableEntity.cs",
               "RelativeDocumentMoniker": "src\\Domain\\OnionPronia.Domain\\Entities\\common\\BaseNameableEntity.cs",
@@ -540,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "BaseAccountableEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\common\\BaseAccountableEntity.cs",
               "RelativeDocumentMoniker": "src\\Domain\\OnionPronia.Domain\\Entities\\common\\BaseAccountableEntity.cs",
@@ -553,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Domain\\OnionPronia.Domain\\Entities\\common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Domain\\OnionPronia.Domain\\Entities\\common\\BaseEntity.cs",
@@ -566,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\academy\\HW\\api-2-Pronia-Onion\\OnionPronia\\src\\Infratrsucture\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "src\\Infratrsucture\\Infrastructure\\Class1.cs",

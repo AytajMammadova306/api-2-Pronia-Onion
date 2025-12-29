@@ -85,7 +85,7 @@ namespace OnionPronia.Persistance.Contexts.Migrations
                         .HasColumnType("varchar(150)");
 
                     b.Property<decimal>("Price")
-                        .HasColumnType("deciaml(8,2)");
+                        .HasColumnType("decimal(8,2)");
 
                     b.Property<string>("SKU")
                         .IsRequired()

@@ -29,7 +29,7 @@ namespace OnionPronia.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromForm] PostCategoryDto categoryDto)
         {
-            _service.CreateAsync(categoryDto);
+            await _service.CreateAsync(categoryDto);
             return Created();
 
         }
@@ -38,7 +38,7 @@ namespace OnionPronia.API.Controllers
         {
             if (id < 1)
                 return BadRequest();
-            _service.UpdateAsync(id, categoryDto);
+            await _service.UpdateAsync(id, categoryDto);
             return NoContent();
 
         }
@@ -46,7 +46,7 @@ namespace OnionPronia.API.Controllers
         public async Task<IActionResult> Remove(int id)
         {
             if (id < 1) return BadRequest();
-            _service.DeleteAsync(id);
+            await _service.DeleteAsync(id);
             return NoContent();
         }
     }
