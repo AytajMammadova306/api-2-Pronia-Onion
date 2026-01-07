@@ -32,5 +32,11 @@ namespace OnionPronia.Persistance.Implementations.Services
                 includes:nameof(Product.Category)).ToListAsync();
             return _mapper.Map<IReadOnlyList<GetProductItemDto>>(products);
         }
+        public async Task<GetProductDto> GetByIdAsync(long id)
+        {
+            Product product=await _repository.GetByIdAsync(id,"ProductTags.Tag",nameof(Product.Category));
+            if (product is null) throw new Exception("Entity Not Found");
+            return _mapper.Map<GetProductDto>(product);
+        }
     }
 }

@@ -16,6 +16,7 @@ namespace OnionPronia.Application.MappingProfiles
             CreateMap<Tag, GetTagItemDto>()
                 .ForCtorParam(nameof(GetTagItemDto.ProductCount),
                 opt => opt.MapFrom(t => t.ProductTags.Count));
+            CreateMap<Tag, GetTagInProductDto>();
         }
     }
 }

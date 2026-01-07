@@ -22,6 +22,7 @@ namespace OnionPronia.Persistance.Implementations.Repositories
             Expression<Func<T, bool>>? func = null,
             Expression<Func<T, object>>? sort = null,
             bool desc = false,
+            bool isIgnore = false,
             int page = 0,
             int take = 0,
             params string[]? includes
@@ -55,11 +56,16 @@ namespace OnionPronia.Persistance.Implementations.Repositories
                 query = _getIncludes(query, includes);
             }
 
+            if (isIgnore)
+            {
+                query = query.IgnoreQueryFilters();
+            }
+
             return query;
         }
-        public async Task<T?> GetByIdAsync(int id, params string[] includes)
+        public async Task<T?> GetByIdAsync(long id, params string[] includes)
         {
-            IQueryable<T> query = _dbSet.AsNoTracking();
+            IQueryable<T> query = _dbSet;
             if (includes is not null)
             {
                 query = _getIncludes(query, includes);

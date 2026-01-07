@@ -15,9 +15,15 @@ namespace OnionPronia.API.Controllers
             _service = service;
         }
         [HttpGet]
-        public async Task<IActionResult> GetAsync(int page=0,int take=0)
+        public async Task<IActionResult> GetAsync(int page = 0, int take = 0)
         {
             return Ok(await _service.GetAllAsync(page, take));
+        }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetAsync(long id)
+        {
+            if (id < 1) return BadRequest();
+            return Ok(await _service.GetByIdAsync(id));
         }
 
     }

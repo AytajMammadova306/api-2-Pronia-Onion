@@ -16,6 +16,7 @@ namespace OnionPronia.Application.MappingProfiles
             CreateMap<Color, GetColorItemDto>()
                 .ForCtorParam(nameof(GetColorItemDto.ProductCount),
                 opt => opt.MapFrom(c => c.ProductColors.Count));
+            CreateMap<Color, GetColorInProductDto>();
         }
     }
 }

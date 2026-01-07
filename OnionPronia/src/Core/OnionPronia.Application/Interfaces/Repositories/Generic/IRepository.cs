@@ -14,11 +14,12 @@ namespace OnionPronia.Application.Interfaces
             Expression<Func<T, bool>>? func = null,
             Expression<Func<T, object>>? sort = null,
             bool desc = false,
+            bool isIgnore = false,
             int page = 0,
             int take = 0,
             params string[]? includes
             );
-        Task<T> GetByIdAsync(int id, params string[]? includes);
+        Task<T> GetByIdAsync(long id, params string[]? includes);
         void Add(T entity);
         void Update(T entity);
         void Delete(T entity);

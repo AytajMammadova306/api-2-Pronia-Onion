@@ -20,6 +20,7 @@ namespace OnionPronia.Application.MappingProfiles
                 opt=>opt.MapFrom(c=>c.Products.Count));
             CreateMap<PostCategoryDto, Category>();
             CreateMap<PutCategoryDto, Category>();
+            CreateMap<Category, GetCategoryInProductDto>();
             
         }
     }

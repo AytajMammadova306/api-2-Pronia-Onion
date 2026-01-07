@@ -49,7 +49,7 @@ namespace OnionPronia.Persistance.Implementations.Services
                 throw new Exception($"Category Named:{categoryDto.Name} already exists");
             }
             Category category=_mapper.Map<Category>(categoryDto);
-            category.CreatedAt = DateTime.Now;
+            
 
             //Category category = new()
             //{
@@ -72,7 +72,6 @@ namespace OnionPronia.Persistance.Implementations.Services
             existed=_mapper.Map(categoryDto,existed);
 
             //existed.Name = categoryDto.Name;
-            existed.Updated= DateTime.Now;
             _repository.Update(existed);
             await _repository.SaveChangesAsync();
         }
@@ -81,6 +80,15 @@ namespace OnionPronia.Persistance.Implementations.Services
             Category? existed = await _repository.GetByIdAsync(id);
             if (existed is null) throw new Exception("Category Not Found");
             _repository.Delete(existed);
+            await _repository.SaveChangesAsync();
+        }
+        public async Task SoftDeleteAsync(int id)
+        {
+            Category? existed = await _repository.GetByIdAsync(id);
+            if (existed is null) throw new Exception("Category Not Found");
+
+            existed.IsDeleted = true;
+            _repository.Update(existed);
             await _repository.SaveChangesAsync();
         }
     }

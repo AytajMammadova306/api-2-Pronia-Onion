@@ -1,4 +1,5 @@
 ﻿using OnionPronia.Application.DTOs.Categories;
+using OnionPronia.Application.DTOs.Tags;
 using OnionPronia.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -18,5 +19,5 @@ namespace OnionPronia.Application.DTOs.Products
         string Tag,
         string Size,
         GetCategoryInProductDto CategoryDto,
-        ICollection<Tag> Tags);
+        ICollection<GetTagInProductDto> TagDtos);
 }

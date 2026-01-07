@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using OnionPronia.Application.DTOs.Sizes;
+using OnionPronia.Application.DTOs.Tags;
 using OnionPronia.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -16,6 +17,7 @@ namespace OnionPronia.Application.MappingProfiles
             CreateMap<Size, GetSizeItemDto>()
                 .ForCtorParam(nameof(GetSizeItemDto.ProductCount),
                 opt => opt.MapFrom(s => s.ProductSizes.Count));
+            CreateMap<Size, GetSizeInProductDtp>();
         }
     }
 }

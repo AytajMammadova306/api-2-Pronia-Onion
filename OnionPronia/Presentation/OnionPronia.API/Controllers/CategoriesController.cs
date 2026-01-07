@@ -42,11 +42,18 @@ namespace OnionPronia.API.Controllers
             return NoContent();
 
         }
-        [HttpDelete("{id}")]
+
+        [HttpDelete("{id}/restore")]
         public async Task<IActionResult> Remove(int id)
         {
             if (id < 1) return BadRequest();
             await _service.DeleteAsync(id);
+            return NoContent();
+        }
+        [HttpDelete("{id}/soft")]
+        public async Task<IActionResult> SoftDelete(int id)
+        {
+            await _service.SoftDeleteAsync(id);
             return NoContent();
         }
     }
