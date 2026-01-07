@@ -56,13 +56,32 @@ namespace OnionPronia.Persistance.Implementations.Services
             if (!categoryResult)
                 throw new Exception("Category Does Not Exist");
 
-            var tags = await _tagRepository.GetAll(t => productDto.TagIds.Contains(t.Id)).ToListAsync();
+            var tags = await _tagRepository.GetAll(t => productDto.TagIds.Distinct().Contains(t.Id)).ToListAsync();
             if (tags.Count!=productDto.TagIds.Count())
                 throw new Exception("Tag Does Not Exist");
 
 
             Product product = _mapper.Map<Product>(productDto);
             _repository.Add(product);
+            await _repository.SaveChangesAsync();
+        }
+        public async Task UpdateProductAsync(long id,PutProductDto productDto)
+        {
+            bool result = await _repository.AnyAsync(p => p.Name == productDto.Name && p.Id!=id);
+            if (result)
+                throw new Exception("Entity already exists");
+
+            bool categoryResult = await _categoryRepository.AnyAsync(c => c.Id == productDto.CategoryId);
+            if (!categoryResult)
+                throw new Exception("Category Does Not Exist");
+
+            var tags = await _tagRepository.GetAll(t => productDto.TagIds.Distinct().Contains(t.Id)).ToListAsync();
+            if (tags.Count != productDto.TagIds.Count())
+                throw new Exception("Tag Does Not Exist");
+
+            Product product = await _repository.GetByIdAsync(id,"ProductTags");
+
+            _repository.Update(_mapper.Map(productDto, product));
             await _repository.SaveChangesAsync();
         }
     }

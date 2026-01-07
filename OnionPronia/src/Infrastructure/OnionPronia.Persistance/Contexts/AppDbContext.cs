@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using OnionPronia.Domain.Entities;
 using OnionPronia.Persistance.Configurations;
 using OnionPronia.Persistance.Contexts.Common;
@@ -11,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace OnionPronia.Persistance.Contexts
 {
-    internal class AppDbContext:DbContext
+    internal class AppDbContext:IdentityDbContext<AppUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext>options):base(options) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)

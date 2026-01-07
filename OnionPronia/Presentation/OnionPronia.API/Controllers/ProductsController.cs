@@ -32,6 +32,11 @@ namespace OnionPronia.API.Controllers
             await _service.CreateProductAsync(productDto);
             return Created();
         }
+        public async Task<IActionResult> PutAsync(long id,[FromBody] PutProductDto productDto)
+        {
+            await _service.UpdateProductAsync(id,productDto);
+            return NoContent();
+        }
 
     }
 }
