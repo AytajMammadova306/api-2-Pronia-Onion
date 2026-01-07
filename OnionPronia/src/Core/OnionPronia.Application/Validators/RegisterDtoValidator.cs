@@ -27,6 +27,17 @@ namespace OnionPronia.Application.Validators
                 .MinimumLength(4)
                 .MaximumLength(256)
                 .Matches(@"^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$");
+            RuleFor(r => r.Username)
+                .NotEmpty()
+                .MinimumLength(4)
+                .MaximumLength(256)
+                .Matches(@"^[A-Za-z0-9-.@+]*$");
+            RuleFor(r => r.Password)
+                .NotEmpty()
+                .MinimumLength(8);
+            RuleFor(r => r)
+                .Must(r => r.ConfirmPassword == r.Password);
+                
             
         }
     }
