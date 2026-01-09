@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace OnionPronia.Application.DTOs.AppUsers
 {
-    public record LoginDto(string UsernameOrEmail, string Password)
+    public record LoginDto(string UsernameOrEmail, string Password);
 }

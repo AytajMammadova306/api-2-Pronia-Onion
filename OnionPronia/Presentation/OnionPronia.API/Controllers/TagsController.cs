@@ -4,7 +4,7 @@ using OnionPronia.Application.Interfaces.Services;
 
 namespace OnionPronia.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class TagsController : ControllerBase
     {

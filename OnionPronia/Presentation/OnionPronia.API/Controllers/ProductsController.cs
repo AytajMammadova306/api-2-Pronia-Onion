@@ -1,11 +1,12 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OnionPronia.Application.DTOs.Products;
 using OnionPronia.Application.Interfaces.Services;
 
 namespace OnionPronia.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
     {
@@ -15,6 +16,7 @@ namespace OnionPronia.API.Controllers
         {
             _service = service;
         }
+        [Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAsync(int page = 0, int take = 0)
         {
@@ -32,6 +34,7 @@ namespace OnionPronia.API.Controllers
             await _service.CreateProductAsync(productDto);
             return Created();
         }
+        [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(long id,[FromBody] PutProductDto productDto)
         {
             await _service.UpdateProductAsync(id,productDto);

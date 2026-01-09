@@ -10,3 +10,9 @@ C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsuctu
 C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\refint\OnionPronia.Infrastructure.dll
 C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.pdb
 C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\ref\OnionPronia.Infrastructure.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPronia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\bin\Debug\net8.0\OnionPronia.Application.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\bin\Debug\net8.0\OnionPronia.Domain.dll
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\bin\Debug\net8.0\OnionPronia.Application.pdb
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\bin\Debug\net8.0\OnionPronia.Domain.pdb
+C:\Users\User\Desktop\academy\HW\api-2-Pronia-Onion\OnionPronia\src\Infratrsucture\Infrastructure\obj\Debug\net8.0\OnionPro.5C070D9E.Up2Date

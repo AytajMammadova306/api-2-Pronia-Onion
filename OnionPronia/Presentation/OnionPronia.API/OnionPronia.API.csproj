@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Infrastructure\OnionPronia.Persistance\OnionPronia.Persistance.csproj" />
+    <ProjectReference Include="..\..\src\Infratrsucture\Infrastructure\OnionPronia.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
